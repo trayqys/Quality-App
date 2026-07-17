@@ -1,4 +1,3 @@
-[app.html](https://github.com/user-attachments/files/30112421/app.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
